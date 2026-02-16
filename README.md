@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil 👋
 
-Meu nome é **Guilherme**, tenho 23 anos e atualmente estou me dedicando a me tornar um **Desenvolvedor Salesforce**.  
+Meu nome é **Guilherme**, tenho 23 anos e atualmente estou me dedicando a me tornar um Desenvolvedor Salesforce.  
 Desde meu primeiro contato com a plataforma, me interessei pelo ecossistema e pelas possibilidades que ela oferece para criar soluções robustas e escaláveis. Tenho focado meus estudos nas principais tecnologias da stack Salesforce (LWC, Apex e SOQL/SOSL), sempre buscando aplicar boas práticas e construir uma base sólida para atuar profissionalmente na área.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescdev/)
@@ -12,7 +12,7 @@ Desde meu primeiro contato com a plataforma, me interessei pelo ecossistema e pe
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=lightning&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL/SOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Ranger (Trailhead)](https://img.shields.io/badge/Ranger(Trailhead)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Ranger(Trailhead)](https://img.shields.io/badge/Ranger(Trailhead)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ##
 
