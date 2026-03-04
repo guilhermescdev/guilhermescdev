@@ -9,8 +9,8 @@ Desde meu primeiro contato com a plataforma, me interessei pelo ecossistema e pe
 ##
 
 ### 🧠 Salesforce
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=lightning&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL/SOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![6x Superbadges](https://img.shields.io/badge/6x_Superbadges-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Ranger](https://img.shields.io/badge/Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
