@@ -39,6 +39,7 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stack 
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Estrutura de Dados](https://img.shields.io/badge/Estrutura%20de%20Dados-00599C?style=for-the-badge&logo=databricks&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-303030?style=for-the-badge&logo=codeforces&logoColor=white)
+![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ##
 
