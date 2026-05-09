@@ -1,6 +1,6 @@
-### Olá! Seja bem-vindo(a) ao meu perfil 👋
+### Desenvolvedor Full Stack (Júnior)
 
-Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, incluindo tecnologias como React.js, Node.js e NestJS. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos sólidos tanto no Front-End quanto no Back-End.
+Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando tecnologias como React.js, Node.js, NestJS e PostgreSQL como banco de dados. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos tanto no Front-End quanto no Back-End.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescdev/)
 
@@ -24,8 +24,8 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stack 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
