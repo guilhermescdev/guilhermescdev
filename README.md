@@ -2,7 +2,8 @@
 
 Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando tecnologias como React.js, Node.js, NestJS e PostgreSQL como banco de dados. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos tanto no Front-End quanto no Back-End.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/guilhermescdev/)
+[![E-mail](https://img.shields.io/badge/Email-guilhermescdev%40gmail.com-0077B5?style=for-the-badge)](mailto:guilhermescdev@gmail.com)
 
 ##
 
