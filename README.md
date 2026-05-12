@@ -4,22 +4,10 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stac
 
 ##
 
-### Full
+### Stack
 [![](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-
-##
-
-### Front-End
 [![](https://skillicons.dev/icons?i=react,vue,vuetify,html,css)](https://skillicons.dev)
-
-##
-
-### Back-End
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,java,spring,py)](https://skillicons.dev)
-
-##
-
-### Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
