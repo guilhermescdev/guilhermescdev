@@ -4,23 +4,25 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stac
 
 ##
 
-### Stack
-[![](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=react,vue,vuetify,html,css)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,java,spring,py)](https://skillicons.dev)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Estrutura de Dados](https://img.shields.io/badge/Estrutura%20de%20Dados-00599C?style=for-the-badge&logo=databricks&logoColor=white)
-![POO](https://img.shields.io/badge/POO-303030?style=for-the-badge&logo=codeforces&logoColor=white)
-![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
+### Front-End:
+[![front-end](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,vue,vuetify)](https://skillicons.dev)
 
 ##
 
-### Contato
+### Back-End:
+[![back-end](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,java,spring,py,cpp)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermescdev-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/guilhermescdev/)
-[![E-mail](https://img.shields.io/badge/Email-guilhermescdev%40gmail.com-0077B5?style=for-the-badge)](mailto:guilhermescdev@gmail.com)
+##
+
+### Outros:
+[![outros](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+##
+
+### Contato:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilhermescdev/)
+[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:guilhermescdev@gmail.com)
 
 ##
 
