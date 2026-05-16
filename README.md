@@ -4,23 +4,22 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stac
 
 ##
 
-### Front-End:
-[![front-end](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,vue,vuetify)](https://skillicons.dev)
+### Linguagens:
+[![linguagens](https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp)](https://skillicons.dev)
 
 ##
 
-### Back-End:
-[![back-end](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgresql,java,spring,py,cpp)](https://skillicons.dev)
+### Frameworks/Bibliotecas:
+[![frameworks/bibliotecas](https://skillicons.dev/icons?i=react,tailwind,vue,vuetify,nestjs,spring)](https://skillicons.dev)
 
 ##
 
-### Outros:
-[![outros](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+### Ferramentas:
+[![ferramentas](https://skillicons.dev/icons?i=git,github,gitlab,nodejs,postgresql)](https://skillicons.dev)
 
 ##
 
 ### Contato:
-
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilhermescdev/)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:guilhermescdev@gmail.com)
 
