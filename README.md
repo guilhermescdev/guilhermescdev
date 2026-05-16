@@ -10,7 +10,7 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stac
 ##
 
 ### Back-End:
-[![back-end](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,java,spring,py,cpp)](https://skillicons.dev)
+[![back-end](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgresql,java,spring,py,cpp)](https://skillicons.dev)
 
 ##
 
