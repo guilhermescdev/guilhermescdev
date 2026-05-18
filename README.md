@@ -1,6 +1,6 @@
 ### Desenvolvedor Full Stack (Júnior)
 
-Atualmente estou em formação como Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando tecnologias como React.js, Node.js, NestJS e PostgreSQL como banco de dados. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos tanto no Front-End quanto no Back-End.
+Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando tecnologias como React.js, Node.js, NestJS e PostgreSQL como banco de dados. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos tanto no Front-End quanto no Back-End.
 
 ##
 
