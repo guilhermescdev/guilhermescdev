@@ -3,9 +3,9 @@
 Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando tecnologias como React.js, Node.js, NestJS e PostgreSQL como banco de dados. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos tanto no Front-End quanto no Back-End.
 
 <div align="center">
-  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermescdev&show_icons=true&theme=tokyonight"/>
-  <img width="30%" src="https://streak-stats.demolab.com?user=guilhermescdev&theme=tokyonight"/>
-  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermescdev&layout=compact&theme=tokyonight"/>
+  <img height="117px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermescdev&show_icons=true&theme=tokyonight"/>
+  <img height="117px" src="https://streak-stats.demolab.com?user=guilhermescdev&theme=tokyonight"/>
+  <img height="117px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermescdev&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
