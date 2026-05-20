@@ -25,24 +25,12 @@ Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando te
 
 ##
 
-<table align="center">
-  <tr>
-    <td width="55%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guilhermescdev&theme=algolia&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=guilhermescdev&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br" alt="" align="center" width="100%" />
-      </picture>
-      <br></br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermescdev&theme=algolia&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermescdev&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=guilhermescdev&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=guilhermescdev&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermescdev&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermescdev&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=guilhermescdev&theme=tokyonight"/>
+</div>
