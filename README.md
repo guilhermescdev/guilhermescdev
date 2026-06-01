@@ -1,12 +1,20 @@
-### Desenvolvedor Full Stack (Júnior)
+### Desenvolvedor Salesforce (Júnior)
 
-Desenvolvedor Full Stack, com foco na stack JavaScript/TypeScript, utilizando tecnologias como React.js, Node.js, NestJS e PostgreSQL como banco de dados. Tenho me dedicado continuamente ao aprimoramento das minhas habilidades técnicas por meio de estudos e desenvolvimento de projetos práticos, buscando consolidar conhecimentos tanto no Front-End quanto no Back-End.
+Meu nome é Guilherme, tenho 23 anos e atualmente estou me dedicando a me tornar um Desenvolvedor Salesforce. Desde meu primeiro contato com a plataforma, me interessei pelo ecossistema e pelas possibilidades que ela oferece para construir soluções robustas e escaláveis. Tenho focado meus estudos nas principais tecnologias da stack Salesforce (Apex, SOQL/SOSL, LWC), sempre buscando aplicar boas práticas e desenvolver uma base sólida para atuar profissionalmente na área.
 
 <div align="center">
   <img height="117px" src="https://github-stats-extended.vercel.app/api?username=guilhermescdev&show_icons=true&theme=tokyonight"/>
   <img height="117px" src="https://streak-stats.demolab.com?user=guilhermescdev&theme=tokyonight"/>
   <img height="117px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guilhermescdev&layout=compact&theme=tokyonight"/>
 </div>
+
+---
+
+### Salesforce:
+
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
+![SOQL/SOSL](https://img.shields.io/badge/SOQL%2FSOSL-1798C1?style=for-the-badge)
+![LWC](https://img.shields.io/badge/LWC-1798C1?style=for-the-badge)
 
 ---
 
