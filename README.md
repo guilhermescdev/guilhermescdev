@@ -10,14 +10,6 @@ Meu nome é Guilherme, tenho 23 anos e atualmente estou me dedicando a me torna
 
 ---
 
-### Salesforce:
-
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
-![SOQL/SOSL](https://img.shields.io/badge/SOQL%2FSOSL-1798C1?style=for-the-badge)
-![LWC](https://img.shields.io/badge/LWC-1798C1?style=for-the-badge)
-
----
-
 ### Linguagens:
 [![linguagens](https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp)](https://skillicons.dev)
 
