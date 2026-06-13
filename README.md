@@ -1,6 +1,6 @@
 ### Desenvolvedor Salesforce (Júnior)
 
-Meu nome é Guilherme, tenho 23 anos e atualmente estou me dedicando a me tornar um Desenvolvedor Salesforce. Desde meu primeiro contato com a plataforma, me interessei pelo ecossistema e pelas possibilidades que ela oferece para construir soluções robustas e escaláveis. Tenho focado meus estudos nas principais tecnologias da stack Salesforce (Apex, SOQL/SOSL, LWC), sempre buscando aplicar boas práticas e desenvolver uma base sólida para atuar profissionalmente na área.
+Meu nome é Guilherme, tenho 23 anos e sou formado em Ciência da Computação pela Universidade Federal do Ceará (UFC). Atualmente, estou me dedicando a me tornar um Salesforce Developer. Desde meu primeiro contato com a plataforma, me interessei pelo seu ecossistema e pelas possibilidades que ela oferece para desenvolver soluções robustas e escaláveis. Tenho focado meus estudos em Apex, SOQL, LWC, Flow e na plataforma como um todo, buscando sempre aplicar boas práticas de desenvolvimento e construir uma base sólida para atuar profissionalmente na área.
 
 <div align="center">
   <img height="117px" src="https://github-stats-extended.vercel.app/api?username=guilhermescdev&show_icons=true&theme=tokyonight"/>
