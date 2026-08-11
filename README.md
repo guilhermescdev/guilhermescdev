@@ -11,7 +11,7 @@ Meu nome é Guilherme, tenho 23 anos e sou formado em Ciência da Computação p
 ---
 
 ### Linguagens:
-[![linguagens](https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp)](https://skillicons.dev)
+[![linguagens](https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,c)](https://skillicons.dev)
 
 ---
 
